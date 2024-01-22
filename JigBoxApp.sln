@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JigBoxApp", "JigBoxApp\JigBoxApp.csproj", "{67ECD008-5053-4A0C-8B35-A656FC1A44B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67ECD008-5053-4A0C-8B35-A656FC1A44B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67ECD008-5053-4A0C-8B35-A656FC1A44B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67ECD008-5053-4A0C-8B35-A656FC1A44B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67ECD008-5053-4A0C-8B35-A656FC1A44B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A50BCDA-8404-4AF3-BC11-7EADF877FDBB}
+	EndGlobalSection
+EndGlobal
